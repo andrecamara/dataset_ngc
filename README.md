@@ -6,11 +6,11 @@ This dataset consists of a co-authorship network extracted from data collected i
 Network related measures of the initial arXiv co-occurrence network and after filter application
 
 
-Measure | Original | Filtered 
-----
-Number of Authors | 1850    | 372  
-Number of Links   | 2560    | 654   
-Link Density      | 0.001   | 0.009 
-Average Link      | 2.768   | 3.516 
-Diameter          | 19      | 19    
-Number of Groups  | 439     | 10   
+|Measure | Original | Filtered |
+|---|---:|---:|
+|Number of Authors | 1850    | 372  |
+|Number of Links   | 2560    | 654   |
+|Link Density      | 0.001   | 0.009 |
+|Average Link      | 2.768   | 3.516 |
+|Diameter          | 19      | 19    |
+|Number of Groups  | 439     | 10   |
