@@ -5,6 +5,7 @@ This dataset consists of a co-authorship network extracted from data collected i
 
 Network related measures of the initial arXiv co-occurrence network and after filter application
 
+
 Measure | Original | Filtered 
 ----
 Number of Authors | 1850    | 372  
